@@ -1,0 +1,5 @@
+<ClientConfig>
+	<GameClient name="Merry Little Cash-mas WLA" clientCode="mobile" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="MerryLittleCashmas" enableFreeSpin="Y" clientversion="1.0" gameId="300-2154-0" />
+	<GameClient name="Merry Little Cash-mas WLA" clientCode="tablet" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="MerryLittleCashmas" enableFreeSpin="Y" clientversion="1.0" gameId="300-2154-0" />
+	<GameClient name="Merry Little Cash-mas WLA" clientCode="desktop" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="MerryLittleCashmas" enableFreeSpin="Y" clientversion="1.0" gameId="300-2154-0" />
+</ClientConfig>
